@@ -1,0 +1,7 @@
+# combines production and test files
+-r test.txt
+-r production.txt
+ 
+django-extensions==1.9.0
+ipdb==0.10.3
+
